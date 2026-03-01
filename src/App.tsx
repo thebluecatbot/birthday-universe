@@ -25,7 +25,7 @@ const GALLERY_IMAGES = [
   { id: 12, src: '/prakhar-photos/photo-12.jpeg' },
   { id: 13, src: '/prakhar-photos/photo-13.jpeg' },
   { id: 14, src: '/prakhar-photos/photo-14.jpeg' },
-  { id: 15, src: '/prakhar-photos/photo-15.jpg' },
+  { id: 15, src: '/prakhar-photos/photo-15.png' },
   { id: 16, src: '/prakhar-photos/photo-16.jpeg' },
   { id: 17, src: '/prakhar-photos/photo-17.jpeg' },
   { id: 18, src: '/prakhar-photos/photo-18.jpeg' },
