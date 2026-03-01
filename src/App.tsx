@@ -537,7 +537,7 @@ function GalleryTab({ onOpenLightbox }: { onOpenLightbox: (idx: number) => void 
               <div className="overflow-hidden" style={{ borderRadius: 3, background: '#f3f3f3' }}>
                 <img
                   src={img.src}
-                  alt={img.caption}
+                  alt=""
                   className="w-full block object-cover group-hover:scale-105 transition-transform duration-500"
                   style={{ display: 'block' }}
                   loading="lazy"
